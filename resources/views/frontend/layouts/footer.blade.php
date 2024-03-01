@@ -54,13 +54,14 @@
 							<!-- Single Widget -->
 							<div class="contact">
 								<ul>
-									<li>ADDRESS</li>
+									<li>Zamura St ,Mangatarem ,Pangasinan</li>
 									<li>skinship@gmail.com</li>
 									<li>123456789</li>
+									<li>SKINSHIP FB PAGE</li>
+
 								</ul>
 							</div>
 							<!-- End Single Widget -->
-							<div class="sharethis-inline-follow-buttons"></div>
 						</div>
 						<!-- End Single Widget -->
 					</div>

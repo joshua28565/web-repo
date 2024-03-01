@@ -12,7 +12,7 @@
                                 
                             @endphp
                             <li><i class="ti-headphone-alt"></i>123456789</li>
-                            <li><i class="ti-email"></i> @foreach($settings as $data) {{$data->email}} @endforeach</li>
+                            <li><i class="ti-email"></i> skinship@gmail.com</li>
                         </ul>
                     </div>
                     <!--/ End Top Left -->
